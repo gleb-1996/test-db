@@ -1,5 +1,10 @@
-{
-    "userName": "Gleb",
-    "userPassword": "123456",
-    "text": "Hello world!"
-}
+[
+    {
+        "userName": "Gleb",
+        "userPassword": "123456"
+    },
+    {
+        "userName": "Vasya",
+        "userPassword": "qwerty123"
+    }
+]
