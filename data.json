@@ -1,10 +1,42 @@
 [
     {
-        "userName": "Gleb",
-        "userPassword": "123456"
+        "userName": "Admin",
+        "userPassword": "BVJIKm"
     },
     {
         "userName": "Vasya",
-        "userPassword": "qwerty123"
+        "userPassword": "a2mNIK"
+    },
+    {
+        "userName": "Kostya",
+        "userPassword": "m6JGMC"
+    },
+    {
+        "userName": "Kolya",
+        "userPassword": "4td1dh"
+    },
+    {
+        "userName": "Roma",
+        "userPassword": "bbS5Ax"
+    },
+    {
+        "userName": "Serega",
+        "userPassword": "BeZ0qN"
+    },
+    {
+        "userName": "Vitalya",
+        "userPassword": "5j9noW"
+    },
+    {
+        "userName": "Gleb",
+        "userPassword": "0Sotb0"
+    },
+    {
+        "userName": "",
+        "userPassword": "kzy4Ad"
+    },
+    {
+        "userName": "",
+        "userPassword": "VRpqi7"
     }
 ]
