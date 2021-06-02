@@ -1,6 +1,26 @@
 {
 	"galleryImages" : [
 		{
+			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/448964013.jpg",
+			"width": 472,
+			"height": 640
+		},
+		{
+			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/448964009.jpg",
+			"width": 436,
+			"height": 650
+		},
+		{
+			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/493550755.jpg",
+			"width": 480,
+			"height": 640
+		},
+		{
+			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/448964014.jpg",
+			"width": 240,
+			"height": 320
+		},
+		{
 			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/493550746.jpg",
 			"width": 640,
 			"height": 426
@@ -14,11 +34,6 @@
 			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/493550739.jpg",
 			"width": 640,
 			"height": 426
-		},
-		{
-			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/448964009.jpg",
-			"width": 436,
-			"height": 650
 		},
 		{
 			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/493550740.jpg",
@@ -36,24 +51,9 @@
 			"height": 450
 		},
 		{
-			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/493550755.jpg",
-			"width": 480,
-			"height": 640
-		},
-		{
-			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/448964013.jpg",
-			"width": 472,
-			"height": 640
-		},
-		{
 			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/493550745.jpg",
 			"width": 640,
 			"height": 425
-		},
-		{
-			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/448964014.jpg",
-			"width": 240,
-			"height": 320
 		},
 		{
 			"url": "https://don16obqbay2c.cloudfront.net/frontend-test-task/images/448964016.jpg",
